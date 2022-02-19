@@ -21,10 +21,10 @@ Contract Characteristics:
  - **Advisors & Partners** 666.666.666 R1 **Locked** [TNrgVSPUQWxBRoe1omfiW1UBdu6msttsh2](https://tronscan.org/#/address/TNrgVSPUQWxBRoe1omfiW1UBdu6msttsh2)
 
 ## Vesting Timeline
- - **Team**
+ - **Team**\
 ***01/15/2023*** _1 200.000.000_ **R1** ***Unlock***
 
- - **Company**
+ - **Company**\
 ***01/15/2023*** _1 000.000.000_ **R1** ***Unlock***
 
 
