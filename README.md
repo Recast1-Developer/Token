@@ -19,25 +19,20 @@ Contract Characteristics:
  - **Company**  1 000.000.000 R1 **Locked** [TJLp1Uw2BHe2t2cXUo7aawonPMxezi7d7M](https://tronscan.org/#/address/TJLp1Uw2BHe2t2cXUo7aawonPMxezi7d7M)
  - **Research & Develompent** 2 000.000.000 R1 **Locked** [TN8t7YwqK2ejsu2BZgnvQjzuU6XPSzfq6D](https://tronscan.org/#/address/TN8t7YwqK2ejsu2BZgnvQjzuU6XPSzfq6D)
  - **Advisors & Partners** 666.666.666 R1 **Locked** [TNrgVSPUQWxBRoe1omfiW1UBdu6msttsh2](https://tronscan.org/#/address/TNrgVSPUQWxBRoe1omfiW1UBdu6msttsh2)
- - **R1 Wallet**  3 000.000.000 R1 **Trade** [TRxwYceo9ivkXM3fHvwRxNkhmBJZWupqVv](https://tronscan.org/#/address/TRxwYceo9ivkXM3fHvwRxNkhmBJZWupqVv)
 
 ## Vesting Timeline
 
-- **Research & Develompent**
+- **Research & Develompent**\
 ***03/15/2022*** _500.000.000_ **R1** ***Unlock***\
 ***06/15/2022*** _500.000.000_ **R1** ***Unlock***\
 ***12/15/2022*** _250.000.000_ **R1** ***Unlock***\
 ***12/15/2023*** _750.000.000_ **R1** ***Unlock***
 
 
-- **Advisors & Partners**
+- **Advisors & Partners**\
 ***03/15/2022*** _333.333.333_ **R1** ***Unlock***\
 ***06/15/2022*** _333.333.333_ **R1** ***Unlock***
 
-- **R1 Wallet**
-***06/15/2022*** _1 000.000.000_ **R1** ***Unlock***\
-***12/15/2022*** _1 000.000.000_ **R1** ***Unlock***\
-***06/15/2023*** _1 000.000.000_ **R1** ***Unlock***
 
 
 
